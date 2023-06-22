@@ -7,12 +7,12 @@ Assessment 2: - ETH PROOF - Beginner Level
 # Getting Started
 To get started with the assignments, follow these steps:
 
-1.Clone this repository: git clone https://github.com/your-username/metacrafters-assignments.git.
-2.Navigate to the specific assignment folder: cd assignmentX (replace X with the assignment number).
-3.Read the assignment description and requirements in the README file within each assignment folder.
-4.Complete the assignment by writing the necessary code and making any required changes.
-5.Test your code and ensure it meets the assignment requirements.
-6.Commit and push your changes to your GitHub repository.
+1.Clone this repository: git clone https://github.com/your-username/metacrafters-assignments.git.<br>
+2.Navigate to the specific assignment folder: cd assignmentX (replace X with the assignment number).<br>
+3.Read the assignment description and requirements in the README file within each assignment folder.<br>
+4.Complete the assignment by writing the necessary code and making any required changes.<br>
+5.Test your code and ensure it meets the assignment requirements.<br>
+6.Commit and push your changes to your GitHub repository.<br>
 
 # Contributing
 Contributions to this repository are not accepted as it is for personal assignments. However, if you have suggestions or feedback, feel free to open an issue.
