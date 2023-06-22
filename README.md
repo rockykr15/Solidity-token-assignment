@@ -1,0 +1,2 @@
+# Solidity token assignment
+ 
